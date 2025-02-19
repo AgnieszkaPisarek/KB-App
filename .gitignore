@@ -30,3 +30,14 @@ npm-debug.log*
 /platforms
 /plugins
 /www
+
+### Vue ###
+/build/
+/node_modules/
+/out/
+
+### Android ###
+android
+
+### IOS ###
+ios
